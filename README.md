@@ -1,6 +1,6 @@
 # SQL-PORTFOLIA-PROJECT-1
 
-# Overview of my project
+# Overview of this project
 In this SQL project I analyze Census 2011 data in MySQL Workbench where i write some SQL queries to find hidden pattern and genrate some useful insights inside the data. 
 
 # About dataset
@@ -53,4 +53,17 @@ Age_Group_30_49	: People age group between 30 to 49 that live in each state and 
 Age_Group_50: People whose age is 50(senior citizens) that live in each state and district.
 
 This dataset contains total 23 columns and 641 rows.
+
+# Project Purpose
+As this census dataset is very big in size and a normal person can't understand what is happening in the dataset.So as a data analyst i tried to answer some of the question by writing some sql queries in my workbench to summarize that data and get useful information from the census data.
+
+Following are the some question I tried to answer:
+
+1.What is total population of India in 2011?
+2. What is average population of each state in 2011?
+3. List the state that have more population than the averaage population.
+4. What is literacy percentage of each state?
+5. Top and bottom three states that stands in literacy percentage.
+6. Regional diversity percentage of each state.
+7. Etc.
 
