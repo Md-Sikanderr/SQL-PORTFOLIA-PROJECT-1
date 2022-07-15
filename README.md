@@ -60,10 +60,18 @@ As this census dataset is very big in size and a normal person can't understand 
 Following are the some question I tried to answer:
 
 1.What is total population of India in 2011?
+
 2. What is average population of each state in 2011?
+
 3. List the state that have more population than the averaage population.
+
 4. What is literacy percentage of each state?
+ 
 5. Top and bottom three states that stands in literacy percentage.
+ 
 6. Regional diversity percentage of each state.
-7. Etc.
+
+7. Total number of male and female percentage that live in each state.
+
+8.etc...
 
